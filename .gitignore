@@ -1,0 +1,13 @@
+data/
+build/
+macd.c
+config.ini
+*.csv
+macd.pyx
+macd.cp312-win_amd64.pyd
+^DJI_MART_signals.png
+AAPL_MART_signals.png
+QQQ_MART_signals.png
+metric.py
+proposed_exp.py
+forest.py
