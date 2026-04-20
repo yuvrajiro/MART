@@ -53,9 +53,7 @@ Contributions, bug reports, and feature requests are welcome! Please open an iss
 
 The paper will be available soon. Stay tuned!
 
-Bibliography (Placeholder for now)
 
 ```{bibtex}
-
-
+Giri, V.K., Goswami, R. Moving average randomized tree. Mach Learn 115, 99 (2026). https://doi.org/10.1007/s10994-025-06978-9
 ```
